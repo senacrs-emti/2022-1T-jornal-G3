@@ -1,0 +1,24 @@
+assets // todos os arquivos de layour, visual, js
+- css // todos or arquivos de css
+--index.html // arquivo vazio para não localizar arquivos
+--style.css // arquivo do te
+- img // fica todos os arquivos de imagens do design/ templat do site
+--index.html // arquivo vazio para não localizar arquivos 
+- js // arquivos de js
+--index.html // arquivo vazio para não localizar arquivos
+--script.js // arquivos de javascript
+
+contents // todos os arquivos  de imagens, vídeos, audio dos conteúdos
+index.html // arquivo vazio para não localizar arquivos
+
+includes //arquivos de repetição
+- index.html //arquivo vazio para não localizar arquivos
+-_header.php // codigo do header, header
+-_aside.php // codigo do aside
+-_footer.php // codigo do footer
+
+editoria.php //
+index.php //
+noticia.php //
+organizacao.txt // descricao da organizacao
+template.html // template base
