@@ -14,12 +14,12 @@
     <header class=".container-lg">
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-      <img class="col-2" src="./assests/img/logo-senac.png" alt="">
-  <a class="navbar-brand" href="#">Sport Hub News</a>
+      <img class="col-2 mr-5" src="./assests/img/logo-senac.png" alt="">
+  <a class="navbar-brand mt-5" href="#">Sport Hub News</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-  <div class="collapse navbar-collapse" id="navbarNav">
+  <div class="collapse navbar-collapse mt-5" id="navbarNav">
     <ul class="navbar-nav">
       <li class="nav-item">
         <a class="nav-link" href="editoria.php">Futebol</a>
