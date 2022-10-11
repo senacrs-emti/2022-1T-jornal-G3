@@ -1,6 +1,10 @@
 <footer>
-
+    <a href="https://www.senacrs.com.br" target="_blank">
+        <img src="./assests/img/ico-logo.png" class="logosenac" alt="">
+    </a>
+    <p class= "nomes">Nean | Rian | Cauã | Juan | João Vitor</p>
 </footer>
+
 
 
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
