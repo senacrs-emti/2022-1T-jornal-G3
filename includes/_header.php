@@ -13,28 +13,32 @@
     
     <header class=".container-lg">
 
-    <nav class="navbar navbar-dark bg-dark">
-    <a class="navbar-brand" href="#">Sport Hub news</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <img class="col-2" src="./assests/img/logo-senac.png" alt="">
+  <a class="navbar-brand" href="#">Sport Hub News</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-    <div class="navbar-nav">
-      <a class="nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
-      <a class="nav-link" href="#">Features</a>
-      <a class="nav-link" href="#">Pricing</a>
-      <a class="nav-link disabled">Disabled</a>
-    </div>
-  </div>
-    </nav>
-
-    <nav>
-        <ul>
-        <li><a href="./index.php">index</a></li>
-        <li><a href="./editoria.php">editoria</a></li>
-        <li><a href="./noticia.php">Notícia</a></li>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="editoria.php">Futebol</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="editoria.php">Basquete</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="editoria.php">Fisiculturismo</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="editoria.php">F1</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="editoria.php">UFC</a>
+      </li>
     </ul>
-    </nav>
+  </div>
+</nav>
     </header>
 </body>
 <html>
