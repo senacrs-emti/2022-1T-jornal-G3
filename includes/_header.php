@@ -14,7 +14,7 @@
     <header class=".container-lg">
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-      <img class="col-2 mr-5" src="./assests/img/logo-senac.png" alt="">
+      <img class="col-2 mr-5" src="./assests/img/logo-jornal.png" alt="">
   <a class="navbar-brand mt-5" href="#">Sport Hub News</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
