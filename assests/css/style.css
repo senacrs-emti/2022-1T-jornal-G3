@@ -29,3 +29,8 @@ footer {
     float: left;
     background-color: #394867;
 }
+
+.logo-jornal {
+    width: 150px;
+    margin-left: 5%;
+}
