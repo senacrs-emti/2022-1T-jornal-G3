@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="./assests/css/style.css">
     <title>Jornal da escola</title>
   </head>
-  <body>
+  <body class="container-fluid">
     
     <header>
     <nav>
