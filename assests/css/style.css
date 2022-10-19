@@ -27,6 +27,8 @@ aside .card{
     margin-right: 15%;
     margin-top: 10%;
     margin-bottom: 10%;
+    background-color:#9BA4B4;
+    border-radius: 3%;
 }
 aside .btn{
     width: 60%;
@@ -34,6 +36,12 @@ aside .btn{
     margin-left: 60%;
     margin-right: 10%;
 }
+
+.card-image {
+    border-radius: 3%;
+    margin-top: 3px;
+}
+
 /* ASIDE */
 footer {
     width: 100%;
@@ -42,3 +50,4 @@ footer {
     float: left;
     background-color: #394867;
 }
+
