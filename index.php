@@ -2,10 +2,9 @@
 //include header
 include_once './includes/_header.php';
 ?>
-<div class="row">
 <main class="col-lg-8 col-12">
-    <h1>Index</h1>
-</main>
+        <h1>Index</h1>
+    </main>
 <?php
 // include do aside
 include_once './includes/_aside.php';

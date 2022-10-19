@@ -2,7 +2,7 @@
 //include header
 include_once './includes/_header.php';
 ?>
-<main>
+<main class="col-lg-8 col-12">
     <h1>Editoria</h1>
 </main>
 <?php

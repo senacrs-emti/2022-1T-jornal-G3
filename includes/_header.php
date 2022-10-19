@@ -10,35 +10,33 @@
     <title>Jornal da escola</title>
   </head>
   <body class="container-fluid">
-    
-    <header class=".container-lg">
 
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-      <a href="./index.php"><img class="logo-jornal" src="./assests/img/logo-jornal.png" alt=""></a>
-  <a class="navbar-brand mt-5" href="#">Sport Hub News</a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse mt-5" id="navbarNav">
-    <ul class="navbar-nav">
-      <li class="nav-item">
-        <a class="nav-link" href="editoria.php">Futebol</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="editoria.php">Basquete</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="editoria.php">Fisiculturismo</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="editoria.php">F1</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="editoria.php">UFC</a>
-      </li>
-    </ul>
-  </div>
-</nav>
+    <header class="row">
+      <nav class="navbar col-12 navbar-expand-lg navbar-dark bg-dark">
+        <a href="./index.php"><img class="logo-jornal" src="./assests/img/logo-jornal.png" alt=""></a>
+        <a class="navbar-brand mt-5" href="#">Sport Hub News</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse mt-5" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="./editoria.php">Futebol</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./editoria.php">Basquete</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./editoria.php">Fisiculturismo</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./editoria.php">F1</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./editoria.php">UFC</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
     </header>
-</body>
-<html>
+    <div class="row">
