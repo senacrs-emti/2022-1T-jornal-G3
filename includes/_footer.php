@@ -2,7 +2,6 @@
 </div>
 <footer class="row">
 
-<footer>
     <a href="https://www.senacrs.com.br" target="_blank">
         <img src="./assests/img/ico-logo.png" class="logosenac" alt="">
     </a>
