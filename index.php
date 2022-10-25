@@ -9,11 +9,45 @@ include_once './includes/_header.php';
   <div class="card-body">
     <h5 class="card-title">Título notícia </h5>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Ir para </a>
+    <a href="#" class="btn btn-primary">Leia mais</a>
   </div>
 </div>
 
+<div class="card bg-dark m-5 text-white card-noticia" style="width: 45rem;">
+  <img src="https://www.lance.com.br/files/article_main/uploads/2022/10/17/634d8550da4e0.jpeg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Título notícia </h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Leia mais</a>
+  </div>
+</div>
 
+<div class="card bg-dark m-5 text-white card-noticia" style="width: 45rem;">
+  <img src="https://www.lance.com.br/files/article_main/uploads/2022/10/17/634d8550da4e0.jpeg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Título notícia </h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Leia mais</a>
+  </div>
+</div>
+
+<div class="card bg-dark m-5 text-white card-noticia" style="width: 45rem;">
+  <img src="https://www.lance.com.br/files/article_main/uploads/2022/10/17/634d8550da4e0.jpeg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Título notícia </h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Leia mais</a>
+  </div>
+</div>
+
+<div class="card bg-dark m-5 text-white card-noticia" style="width: 45rem;">
+  <img src="https://www.lance.com.br/files/article_main/uploads/2022/10/17/634d8550da4e0.jpeg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Título notícia </h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Leia mais</a>
+  </div>
+</div>
     </main>
 <?php
 // include do aside
