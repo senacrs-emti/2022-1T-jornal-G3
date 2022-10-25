@@ -41,6 +41,8 @@ aside .btn{
 
 /* ASIDE */
 footer {
+
+    
     height: auto;
     background-color: #394867;
 
@@ -78,4 +80,21 @@ footer img {
    margin-top: 30px;
    margin-right: 35px;
 }
+
+.linkgit {
+
+    color: white;
+    
+    
+    }
+    
+    a:hover {
+    
+    color: white;
+    
+    
+    text-decoration: underline;
+    
+    
+    }
 
