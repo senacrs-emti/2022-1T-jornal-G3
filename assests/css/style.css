@@ -42,3 +42,39 @@ footer img {
    margin-top: 30px;
    margin-right: 35px;
 }
+
+.lilinks {
+
+color: black;
+
+}
+
+a {
+
+color: white;
+
+}
+
+a:visited {
+
+color: white;
+
+
+}
+
+
+a:hover {
+
+    text-decoration: underline;
+
+color: white;
+
+}
+
+a:active {
+
+color: white;
+
+
+
+}

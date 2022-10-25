@@ -14,9 +14,9 @@
     <header>
     <nav>
         <ul>
-        <li><a href="./index.php">index</a></li>
-        <li><a href="./editoria.php">editoria</a></li>
-        <li><a href="./noticia.php">Notícia</a></li>
+        <li><a class="lilinks" href="./index.php">index</a></li>
+        <li><a class="lilinks" href="./editoria.php">editoria</a></li>
+        <li><a class="lilinks" href="./noticia.php">Notícia</a></li>
     </ul>
     </nav>
     </header>

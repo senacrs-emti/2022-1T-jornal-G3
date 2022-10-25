@@ -2,7 +2,7 @@
     <a href="https://www.senacrs.com.br" target="_blank">
         <img src="./assests/img/ico-logo.png" class="logosenac" alt="">
     </a>
-    <p class= "nomes">Nean | Rian | Cauã | Juan | João Vitor</p>
+    <p class= "nomes"> <a href="https://github.com/neanuwu" target="_blank"> Nean | <a href="https://github.com/rian-06" target="_blank"> Rian |<a href="https://github.com/Caua-guadagnin" target="_blank"> Cauã | <a href="https://github.com/mclovincomdelas" target="_blank"> Juan | <a href="https://github.com/Jonasuwu" target="_blank">João Vitor</p>
 </footer>
 
 
