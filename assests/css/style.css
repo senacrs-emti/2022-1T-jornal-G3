@@ -98,3 +98,16 @@ footer img {
     
     }
 
+    .noticia-text {
+        text-align: center;
+        }
+
+    .p-noticia {
+        text-align: justify;
+        margin-left: 3%;
+        margin-right: 3%;
+        margin-top: 2%;
+    }
+
+
+
