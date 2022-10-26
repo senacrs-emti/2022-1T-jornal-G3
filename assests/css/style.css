@@ -6,6 +6,7 @@ header {
 main {
     height: auto;
     background-color: #9BA4B4;
+
 }
 /* ASIDE */
 aside {
@@ -109,5 +110,11 @@ footer img {
         margin-top: 2%;
     }
 
+.imagemeditoria {
+    width: 30%;
+    margin-left: 35%;
+}
 
-
+.text-editoria {
+    text-align: center;
+}
