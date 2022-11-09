@@ -1,0 +1,5 @@
+<h1>CHARLES DO BRONX PERDE POR MEIO DE FINALIZAÇÃO CONTRA ISLAM MAKHACHEV</h1>
+<h4>Charles Oliveira ‘do Bronx’ perde após 5 anos de invencibilidade e seu reinado no peso leve chega a um fim </h4>
+<p>No UFC 280, sábado 22 de outubro, Charles Oliveira perdeu para Islam Makhachev no segundo round. Contrariando as expectativas, o russo se tornou o mais novo campeão da categoria peso leve após encaixar um golpe em pé que levou o brasileiro ao chão. Com do Bronx no chão, Islam encaixou o katagatame (estrangulamento do Jiu-Jitsu e do Judô, também chamado de ‘Pressão Continua’) e o brasileiro realizou a submissão assim encerrando a luta por finalização. </p>
+<p>A última derrota de Charles havia sido em 2017, porém após a luta com Islam, sua sequência de 11 vitórias foi interrompida. </p>
+<p>Duas semanas depois da luta o canal do Youtube do Ultimate divulgou um vídeo que revelava os bastidores da luta, mostrando o brasileiro abatido no vestiário após a derrota para Islam. Mesmo triste com a derrota o brasileiro parece determinado a recuperar o cinturão dizendo “Nossa obrigação pegar esse cinturão de volta”.  </p>
