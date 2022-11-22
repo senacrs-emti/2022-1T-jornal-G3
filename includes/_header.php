@@ -21,10 +21,10 @@
         <div class="collapse navbar-collapse mt-5" id="navbarNav">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link" href="./editoria.php">Futebol</a>
+              <a class="nav-link" href="./futebol.php">Futebol</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./editoria.php">Basquete</a>
+              <a class="nav-link" href="./basquete.php">Basquete</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="./editoria.php">Fisiculturismo</a>
