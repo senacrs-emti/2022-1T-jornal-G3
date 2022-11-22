@@ -40,7 +40,6 @@ aside .btn{
     margin-top: 3px;
 }
 
-/* ASIDE */
 footer {
 
 
@@ -117,6 +116,10 @@ footer img {
 }
 
 .image-noticia {
+    border-radius: 3%;
+}
+
+.carousel-imgs {
     border-radius: 3%;
 }
 
