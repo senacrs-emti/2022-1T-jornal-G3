@@ -3,8 +3,9 @@
 include_once './includes/_header.php';
 ?>
 <main class="col-lg-9 col-12">
-    <h1 class="noticia-text mt-4">Jogodo Grêmio</h1>
-    <h5 class="noticia-text mt-3">Rian Garcia Pereira</h5>
+    <h1 class="noticia-text mt-4">Crônica</h1>
+    <h2 class="noticia-text mt-4">Jogo do Grêmio</h1>
+    <h6 class="noticia-text mt-3">Rian Garcia Pereira</h5>
 
     
 

@@ -4,7 +4,7 @@ include_once './includes/_header.php';
 ?>
 <main class="col-lg-9 col-12">
     <img class="imagemeditoria mt-3" src="https://cdn-icons-png.flaticon.com/512/53/53283.png" alt="">
-    <h1 class="text-editoria">Futebol</h1>
+    <h1 class="text-editoria mt-3">FUTEBOL</h1>
 <hr>
 
     <div id="carouselExampleIndicators" class="carousel slide col-10 ml-5 " data-ride="carousel">
@@ -48,11 +48,25 @@ include_once './includes/_header.php';
     <h1 class="mt-1 ml-5">NOTÍCIA</h1>
   <img src="./contents/benzema-e-a-bola-de-ouro.jpg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
   <div class="card-body">
-    <h5 class="card-title">Karim Benzema é o melhor do mundo  </h5>
+    <h3 class="card-title">Karim Benzema é o melhor do mundo  </h3>
     <p class="card-text">O atacante do Real Madrid ficou em primeiro na premiação de melhor do mundo da France Football</p>
     <a href="./noticia-karim-benzema.php" class="btn btn-light">Leia mais</a>
   </div>
 </div>
+
+
+
+<div class="card bg-dark m-5 text-white card-noticia col-10" style="width: 45rem;">
+  
+  <img src="./contents/benzema-e-a-bola-de-ouro.jpg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
+  <div class="card-body">
+    <h4 class="card-title">Cristiano Ronaldo ou Messi</h4>
+    <p class="card-text">Artigo de opinião de Rian Garcia Pereira</p>
+    <a href="./artigo-de-opiniao-cristiano-ou-messi.php" class="btn btn-light">Leia mais</a>
+  </div>
+</div>
+
+
 
 <div class="card bg-dark m-5 text-white card-noticia col-10" style="width: 45rem;">
     <h1 class="mt-1 ml-5">CRÔNICA</h1>
