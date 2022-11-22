@@ -2,7 +2,7 @@
 //include header
 include_once './includes/_header.php';
 ?>
-<main class="col-lg-8 col-12">
+<main class="col-lg-9 col-12">
     <h1 class="noticia-text mt-4">Título da Notícia</h1>
     <h3 class="noticia-text mt-3">subtítulo Lorem ipsum dolor, sit amet consectetur adipisicing</h3>
     <h5 class="noticia-text mt-3">autor</h5>

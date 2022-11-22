@@ -2,7 +2,7 @@
 //include header
 include_once './includes/_header.php';
 ?>
-<main class="col-lg-8 col-12">
+<main class="col-lg-9 col-12">
     <img class="imagemeditoria mt-3" src="https://cdn-icons-png.flaticon.com/512/53/53283.png" alt="">
     <p class="text-editoria">(imagem da logo do esporte)</p>
     <h1 class="text-editoria">Nome do esporte selecionado</h1>
