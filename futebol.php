@@ -17,22 +17,24 @@ include_once './includes/_header.php';
     <div class="carousel-item active">
       <img class="d-block w-100 carousel-imgs" src="./contents/argentina-perdeu.jpg" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
-    <h5>Argentina perde contra Arábia Saudita 2x1</h5>
-    <p>Depois de uma virada da Arábia Saudita, Argentina tem uma derrota após 1.300 dias</p>
+    <h5 class="shadow-text">2x1 Argentina perde contra Arábia Saudit</h5>
+    <p class="shadow-text">Depois de uma virada da Arábia Saudita, Argentina tem uma derrota após 1.300 dias</p>
   </div>
-    </div>
-    <div class="carousel-item">
+  </div>
+  <div class="carousel-item">
       <img class="d-block w-100 carousel-imgs" src="./contents/eriksen-copa.jpg" alt="Second slide">
       <div class="carousel-caption d-none d-md-block">
-    <h5>Dinamarca e Tunísia empatam 0X0</h5>
-    <p>Com Eriksen Dinamarca tem um empate com um possível penalti e algumas chances, porém não sai nem um gol. 
-    </p>
+    <h5 class="shadow-text">0x0 Dinamarca e Tunísia empatam</h5>
+    <p class="shadow-text">Com Eriksen Dinamarca tem um empate com um possível penalti e algumas chances, porém não sai nem um gol.</p>
   </div>
-    </div>
+  </div>
     <div class="carousel-item">
-      <img class="d-block w-100 carousel-imgs" src="..." alt="Third slide">
+      <img class="d-block w-100 carousel-imgs" src="./contents/japao-derrota-alemanha.jpg" alt="Third slide">
+      <div class="carousel-caption d-none d-md-block">
+    <h5 class="shadow-text">2x1 Japão Vira da Alemanha </h5>
+    <p class="shadow-text">Após um gol de pênalti, o Japão vira o jogo contra a Alemanha de forma parecida com a virada da Arábia Saudia sob a Argentina</p>
 
-    </div>
+  </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -58,7 +60,7 @@ include_once './includes/_header.php';
 
 <div class="card bg-dark m-5 text-white card-noticia col-10" style="width: 45rem;">
   
-  <img src="./contents/benzema-e-a-bola-de-ouro.jpg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
+  <img src="./contents/cr7-e-messi.jpg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
   <div class="card-body">
     <h4 class="card-title">Cristiano Ronaldo ou Messi</h4>
     <p class="card-text">Artigo de opinião de Rian Garcia Pereira</p>
