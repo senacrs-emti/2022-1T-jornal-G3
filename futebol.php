@@ -8,11 +8,7 @@ include_once './includes/_header.php';
 <hr>
 
     <div id="carouselExampleIndicators" class="carousel slide col-10 ml-5 " data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-  </ol>
+
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100 carousel-imgs" src="./contents/argentina-perdeu.jpg" alt="First slide">
@@ -46,6 +42,9 @@ include_once './includes/_header.php';
   </a>
 </div>
     
+
+
+
     <div class="card bg-dark m-5 text-white card-noticia col-10" style="width: 45rem;">
     <h1 class="mt-1 ml-5">NOTÍCIA</h1>
   <img src="./contents/benzema-e-a-bola-de-ouro.jpg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
@@ -59,7 +58,6 @@ include_once './includes/_header.php';
 
 
 <div class="card bg-dark m-5 text-white card-noticia col-10" style="width: 45rem;">
-  
   <img src="./contents/cr7-e-messi.jpg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
   <div class="card-body">
     <h4 class="card-title">Cristiano Ronaldo ou Messi</h4>
@@ -77,7 +75,6 @@ include_once './includes/_header.php';
     <h1 class="card-title">Jogo do Grêmio</h1>
     <hr>
     <h5>Crônica de Rian Garcia Pereira</h5>
-    
     <a href="./cronica-jogo-do-gremio.php" class="btn btn-light">Leia mais</a>
   </div>
 </div>
