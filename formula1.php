@@ -7,11 +7,29 @@ include_once './includes/_header.php';
     <h1 class="text-editoria">Formula 1</h1>
 
     <div class="card bg-dark m-5 text-white card-noticia col-10" style="width: 45rem;">
-  <img src="https://quatrorodas.abril.com.br/wp-content/uploads/2022/08/audi-f1.jpg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
+  <img src="https://esporteamotor.com.br/wp-content/uploads/2022/09/Sebastian-Vettel-questionado-sobre-o-teaser-do-Instagram-de-um.jpg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
   <div class="card-body">
     <h5 class="card-title">Aposentadoria de Sebastian Vettel</h5>
     <p class="card-text">Famoso piloto da categoria irá se aposentar</p>
     <a href="./noticia-f1.php" class="btn btn-primary">Leia mais</a>
+  </div>
+</div>
+
+<div class="card bg-dark m-5 text-white card-noticia col-10" style="width: 45rem;">
+  <img src="https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3302421:1668805008/FhefoSdXkAEbfa4_Easy-Resize.com.jpg?f=16x9&$p$f=991adb3" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Os melhores pilotos da Formula 1</h5>
+    <p class="card-text">artigo de opinião sobre os melhores pilotos da categoria</p>
+    <a href="./artigo-opiniao-f1.php" class="btn btn-primary">Leia mais</a>
+  </div>
+</div>
+
+<div class="card bg-dark m-5 text-white card-noticia col-10" style="width: 45rem;">
+  <img src="https://cdn-1.motorsport.com/images/amp/0mNdrpA2/s6/f1-european-gp-1993-ayrton-sen.jpg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Crônica de Senna</h5>
+    <p class="card-text">Crônica sobre uma das corridas do falecido piloto</p>
+    <a href="./cronica-de-senna.php" class="btn btn-primary">Leia mais</a>
   </div>
 </div>
 

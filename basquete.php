@@ -15,6 +15,24 @@ include_once './includes/_header.php';
   </div>
 </div>
 
+<div class="card bg-dark m-5 text-white card-noticia col-10" style="width: 45rem;">
+  <img src="https://imagens.ebc.com.br/BNLgImAlcZslu1Hq5-UvJMT-dYo=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/basquete_cesta_bola.jpg?itok=cf93zUk2" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Um grande jogador</h5>
+    <p class="card-text">Crônica sobre basquete</p>
+    <a href="./cronicabasket.php" class="btn btn-primary">Leia mais</a>
+  </div>
+</div>
+
+<div class="card bg-dark m-5 text-white card-noticia col-10" style="width: 45rem;">
+  <img src="https://cdn.nba.com/headshots/nba/latest/1040x760/893.png" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">ARTIGO DE OPINIÃO: MICHAEL JORDAN MELHOR JOGADOR DA HISTÓRIA</h5>
+    <p class="card-text">Artigo de opinião sobre o ex jogador Michael Jordan</p>
+    <a href="./artigodeopiniaobasket.php" class="btn btn-primary">Leia mais</a>
+  </div>
+</div>
+
 
 </main>
 <?php

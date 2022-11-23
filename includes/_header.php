@@ -33,7 +33,7 @@
               <a class="nav-link" href="./formula1.php">F1</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./editoria.php">UFC</a>
+              <a class="nav-link" href="./ufc.php">Lutas</a>
             </li>
           </ul>
         </div>
