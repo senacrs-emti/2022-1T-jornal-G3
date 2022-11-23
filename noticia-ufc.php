@@ -7,8 +7,8 @@ include_once './includes/_header.php';
     <h3 class="noticia-text mt-3">Charles Oliveira ‘do Bronx’ perde após 5 anos de invencibilidade e seu reinado no peso leve chega a um fim </h3>
     <h5 class="noticia-text mt-3">Autor: Nean Garcia Pereira</h5>
 
-    <img class="col-12 image-noticia" src="https://www.superlutas.com.br/wp-content/uploads/2022/10/Do-Bronx-Makhachev.jpg" alt="">
-    <figcaption>créditos: https://www.superlutas.com.br/noticias/207775/cinco-motivos-para-assistir-o-ufc-280-com-charles-do-bronx-x-islam-makhachev-pelo-cinturao-dos-leves/</figcaption>
+    <img class="col-12 image-noticia" src="https://i2-prod.mirror.co.uk/incoming/article28297840.ece/ALTERNATES/s1200c/0_UFC-280-Ceremonial-Weigh-in.jpg" alt="">
+    <figcaption>créditos: Zuffa LLC - https://ge.globo.com/combate/noticia/2022/10/21/ufc-280-apos-encarada-charles-avisa-o-leao-dos-leves-continua-rugindo.ghtml</figcaption>
 
     <p class="p-noticia">No UFC 280, sábado 22 de outubro, Charles Oliveira perdeu para Islam Makhachev no segundo round. Contrariando as expectativas, o russo se tornou o mais novo campeão da categoria peso leve após encaixar um golpe em pé que levou o brasileiro ao chão. Com do Bronx no chão, Islam encaixou o katagatame (estrangulamento do Jiu-Jitsu e do Judô, também chamado de ‘Pressão Continua’) e o brasileiro realizou a submissão assim encerrando a luta por finalização.</p>
 
