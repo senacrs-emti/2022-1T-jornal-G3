@@ -6,7 +6,6 @@ header {
 main {
     height: auto;
     background-color: #9BA4B4;
-
 }
 /* ASIDE */
 aside {
@@ -135,4 +134,15 @@ footer img {
 
 p {
     text-align: justify;
+}
+
+@media screen and (max-device-width: 480px) {
+	main {
+		background: yellow;
+	}
+}
+
+
+.card-noticia {
+    width: 100%;
 }

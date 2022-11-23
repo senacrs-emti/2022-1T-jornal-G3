@@ -4,7 +4,7 @@ include_once './includes/_header.php';
 ?>
 <main class="col-lg-9 col-12">
 
-<div class="card bg-dark m-5 text-white card-noticia col-10" style="width: 45rem;">
+<div class="card bg-dark mt-5 text-white card-noticia col-12" >
   <img src="./contents/benzema-e-a-bola-de-ouro.jpg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
   <div class="card-body">
     <h5 class="card-title">Karim Benzema é o melhor do mundo </h5>
@@ -13,7 +13,7 @@ include_once './includes/_header.php';
   </div>
 </div>
 
-<div class="card bg-dark m-5 text-white card-noticia col-10" style="width: 45rem;">
+<div class="card bg-dark mt-5 text-white card-noticia col-12" >
   <img src="https://www.mktesportivo.com/wp-content/uploads/2022/04/luva_pedreiro_amazon_2.jpg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
   <div class="card-body">
     <h5 class="card-title">Amazon irá transmitir a NBA e usa Luva de Pedreiro como propaganda</h5>
@@ -22,8 +22,8 @@ include_once './includes/_header.php';
   </div>
 </div>
 
-<div class="card bg-dark m-5 text-white card-noticia col-10" style="width: 45rem;">
-  <img src="https://i2-prod.mirror.co.uk/incoming/article28297840.ece/ALTERNATES/s1200c/0_UFC-280-Ceremonial-Weigh-in.jpg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
+<div class="card bg-dark mt-5 text-white card-noticia col-12" >
+  <img class="" src="https://i2-prod.mirror.co.uk/incoming/article28297840.ece/ALTERNATES/s1200c/0_UFC-280-Ceremonial-Weigh-in.jpg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
   <div class="card-body">
     <h5 class="card-title">Charles do Bronx perde por meio de finalização contra Islam Makhachev</h5>
     <p class="card-text">Charles Oliveira ‘do Bronx’ perde após 5 anos de invencibilidade e seu reinado no peso leve chega a um fim</p>
@@ -31,7 +31,7 @@ include_once './includes/_header.php';
   </div>
 </div>
 
-<div class="card bg-dark m-5 text-white card-noticia col-10" style="width: 45rem;">
+<div class="card bg-dark mt-5 text-white card-noticia col-12">
   <img src="https://www.lance.com.br/files/article_main/uploads/2022/10/17/634d8550da4e0.jpeg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
   <div class="card-body">
     <h5 class="card-title">Título notícia </h5>
@@ -40,8 +40,8 @@ include_once './includes/_header.php';
   </div>
 </div>
 
-<div class="card bg-dark m-5 text-white card-noticia col-10" style="width: 45rem;">
-  <img src="https://esporteamotor.com.br/wp-content/uploads/2022/10/Aposentadoria-ficando-um-pouco-mais-real-a-medida-que-o.jpg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
+<div class="card bg-dark mt-5 text-white card-noticia col-12">
+  <img src="https://www.lance.com.br/files/article_main/uploads/2022/10/17/634d8550da4e0.jpeg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
   <div class="card-body">
     <h5 class="card-title">Aposentadoria de Sebastian Vettel</h5>
     <p class="card-text">Noticia sobre a aposentadoria do famoso piloto Sebastian Vettel</p>

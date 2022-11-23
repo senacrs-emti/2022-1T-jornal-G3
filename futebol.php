@@ -7,7 +7,7 @@ include_once './includes/_header.php';
     <h1 class="text-editoria mt-3">FUTEBOL</h1>
 <hr>
 
-    <div id="carouselExampleIndicators" class="carousel slide col-10 ml-5 " data-ride="carousel">
+    <div id="carouselExampleIndicators" class="carousel slide col-12" data-ride="carousel">
 
   <div class="carousel-inner">
     <div class="carousel-item active">
@@ -45,7 +45,7 @@ include_once './includes/_header.php';
 
 
 
-    <div class="card bg-dark m-5 text-white card-noticia col-10" style="width: 45rem;">
+    <div class="card bg-dark mt-5 text-white card-noticia col-12">
     <h1 class="mt-1 ml-5">NOTÍCIA</h1>
   <img src="./contents/benzema-e-a-bola-de-ouro.jpg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
   <div class="card-body">
@@ -57,7 +57,7 @@ include_once './includes/_header.php';
 
 
 
-<div class="card bg-dark m-5 text-white card-noticia col-10" style="width: 45rem;">
+<div class="card bg-dark mt-5 text-white card-noticia col-12">
   <img src="./contents/cr7-e-messi.jpg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
   <div class="card-body">
     <h4 class="card-title">Cristiano Ronaldo ou Messi</h4>
@@ -68,7 +68,7 @@ include_once './includes/_header.php';
 
 
 
-<div class="card bg-dark m-5 text-white card-noticia col-10" style="width: 45rem;">
+<div class="card bg-dark mt-5 text-white card-noticia col-12">
     <h1 class="mt-1 ml-5">CRÔNICA</h1>
   <img src="./contents/olimpico-gremio.jpg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
   <div class="card-body">
