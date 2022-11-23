@@ -5,9 +5,10 @@ include_once './includes/_header.php';
 <main class="col-lg-9 col-12">
     <h1 class="noticia-text mt-4">Aposentadoria de Sebastian Vettel</h1>
     <h3 class="noticia-text mt-3">Famoso piloto da categoria irá se aposentar do esporte</h3>
-    <h5 class="noticia-text mt-3">Cauã Guadagnin Silveira</h5>
+    <h5 class="noticia-text mt-3">Autor: Cauã Guadagnin Silveira</h5>
 
     <img class="col-12 image-noticia" src="https://esporteamotor.com.br/wp-content/uploads/2022/10/Aposentadoria-ficando-um-pouco-mais-real-a-medida-que-o.jpg" alt="">
+    <figcaption>imagem retirada do site esporte a motor</figcaption>
 
     <p class="p-noticia">Sebastian Vettel, famoso piloto de formula um irá se aposentar no fim da temporada de 2022. Vettel anunciou sua aposentadoria em julho deste ano após 16 temporadas na categoria e quatro títulos mundiais. Em 2021 Seb conquistou o único pódio da Aston Martin, no GP do Azerbaijão – também foi sua última vez no pódio até então.</p>
 
