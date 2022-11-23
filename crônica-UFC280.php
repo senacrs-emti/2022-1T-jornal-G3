@@ -7,7 +7,8 @@ include_once './includes/_header.php';
 
     <h5 class="noticia-text mt-3">Autor: Nean Garcia Pereira</h5>
 
-    <img class="col-12 image-noticia" src="https://www.lance.com.br/files/article_main/uploads/2022/10/17/634d8550da4e0.jpeg" alt="">
+    <img class="col-12 image-noticia" src="https://dmxg5wxfqgb4u.cloudfront.net/styles/background_image_sm/s3/2022-10/211022-hero-charles-oliveira-pesagem-GettyImages-1435209105.jpg?h=d1cb525d&itok=ur00FoKw" alt="">
+    <figcaption>créditos: https://www.ufc.com.br/news/resultados-pesagem-ufc-280-oliveira-makhachev</figcaption>
 
     <p class="p-noticia">Permaneci ansiosamente aguardando a luta entre o brasileiro Charles Oliveira ‘do Bronx’ e o russo Islam Makhachev na disputa pelo cinturão Peso leve durante semanas. Criei expectativas de que o brasileiro, eleito lutador do ano venceria o russo e iria manter seu cinturão, afinal Charles vinha de uma sequência de vitórias e estava extremamente confiante.</p>
 
