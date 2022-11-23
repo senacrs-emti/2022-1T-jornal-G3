@@ -23,7 +23,7 @@ include_once './includes/_header.php';
 </div>
 
 <div class="card bg-dark mt-5 text-white card-noticia col-12" >
-  <img class="" src="https://i2-prod.mirror.co.uk/incoming/article28297840.ece/ALTERNATES/s1200c/0_UFC-280-Ceremonial-Weigh-in.jpg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
+  <img class="" src="https://www.superlutas.com.br/wp-content/uploads/2022/10/Do-Bronx-Makhachev.jpg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
   <div class="card-body">
     <h5 class="card-title">Charles do Bronx perde por meio de finalização contra Islam Makhachev</h5>
     <p class="card-text">Charles Oliveira ‘do Bronx’ perde após 5 anos de invencibilidade e seu reinado no peso leve chega a um fim</p>
