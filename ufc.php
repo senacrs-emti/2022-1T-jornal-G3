@@ -8,7 +8,7 @@ include_once './includes/_header.php';
     <h1 class="text-editoria">ARTES MARCIAIS MISTAS</h1>
 
     <div class="card bg-dark m-5 text-white card-noticia col-10" style="width: 45rem;">
-  <img src="https://i0.wp.com/www.superlutas.com.br/wp-content/uploads/2022/10/Do-Bronx-Makhachev.jpg?resize=768%2C529&ssl=1" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
+  <img src="https://i2-prod.mirror.co.uk/incoming/article28297840.ece/ALTERNATES/s1200c/0_UFC-280-Ceremonial-Weigh-in.jpg" alt="...">
     
   <div class="card-body">
     <h5 class="card-title">Charles do Bronx perde por meio de finalização contra Islam Makhachev</h5>
