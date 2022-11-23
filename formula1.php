@@ -11,7 +11,7 @@ include_once './includes/_header.php';
   <div class="card-body">
     <h5 class="card-title">Aposentadoria de Sebastian Vettel</h5>
     <p class="card-text">Famoso piloto da categoria irá se aposentar</p>
-    <a href="./noticia.php" class="btn btn-primary">Leia mais</a>
+    <a href="./noticia-f1.php" class="btn btn-primary">Leia mais</a>
   </div>
 </div>
 

@@ -30,7 +30,7 @@
               <a class="nav-link" href="./editoria.php">Fisiculturismo</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./editoria.php">F1</a>
+              <a class="nav-link" href="./formula1.php">F1</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="./editoria.php">UFC</a>
