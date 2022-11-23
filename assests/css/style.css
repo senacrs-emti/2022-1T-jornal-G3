@@ -130,6 +130,9 @@ footer img {
     margin-top: 2%;
 }
 
+.shadow-text 
+    {text-shadow: 0.2em 0.2em 0.15em black}
 
-
-
+p {
+    text-align: justify;
+}
