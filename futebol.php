@@ -11,21 +11,21 @@ include_once './includes/_header.php';
 
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100 carousel-imgs" src="./contents/argentina-perdeu.jpg" alt="First slide">
+      <img class="d-block w-100 carousel-imgs" height="600px" src="./contents/messi.png" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
     <h5 class="shadow-text">2x1 Argentina perde contra Arábia Saudit</h5>
     <p class="shadow-text">Depois de uma virada da Arábia Saudita, Argentina tem uma derrota após 1.300 dias</p>
   </div>
   </div>
   <div class="carousel-item">
-      <img class="d-block w-100 carousel-imgs" src="./contents/eriksen-copa.jpg" alt="Second slide">
+      <img class="d-block w-100 carousel-imgs" height="600px" src="./contents/richarlison.png" alt="Second slide">
       <div class="carousel-caption d-none d-md-block">
     <h5 class="shadow-text">0x0 Dinamarca e Tunísia empatam</h5>
     <p class="shadow-text">Com Eriksen Dinamarca tem um empate com um possível penalti e algumas chances, porém não sai nem um gol.</p>
   </div>
   </div>
     <div class="carousel-item">
-      <img class="d-block w-100 carousel-imgs" src="./contents/japao-derrota-alemanha.jpg" alt="Third slide">
+      <img class="d-block w-100 carousel-imgs" height="600px" src="./contents/japao-derrota-alemanha.jpg" alt="Third slide">
       <div class="carousel-caption d-none d-md-block">
     <h5 class="shadow-text">2x1 Japão Vira da Alemanha </h5>
     <p class="shadow-text">Após um gol de pênalti, o Japão vira o jogo contra a Alemanha de forma parecida com a virada da Arábia Saudia sob a Argentina</p>
