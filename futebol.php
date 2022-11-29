@@ -25,7 +25,7 @@ include_once './includes/_header.php';
     <div class="carousel-item active">
       <img class="d-block w-100 carousel-imgs" height="500px" src="./contents/messi.png" alt="First slide">
   <div class="carousel-caption d-none d-md-block">
-  <button type="button" class="btn btn-info">2x0</button>
+  <button type="button" class="btn btn-info btn-outline-light btn-lg">2x0</button>
     <h3 class="shadow-text">Argentina ganha do México</h3>
     <h6 class="shadow-text ml-5">Messi abre o placar e Argentina ganha após derrota contra Arábia Saudita</h6>
   </div>
@@ -33,7 +33,7 @@ include_once './includes/_header.php';
   <div class="carousel-item">
       <img class="d-block w-100 carousel-imgs" height="500px" src="./contents/richarlison.png" alt="Second slide">
 <div class="carousel-caption d-none d-md-block">
-      <button type="button" class="btn btn-warning btn-outline-light">2x0</button>
+      <button type="button" class="btn btn-warning btn-outline-light btn-lg">2x0</button>
     <h5 class="shadow-text">Brasil ganha da Sérvia</h5>
     <h6 class="shadow-text ml-5">Richarlison faz dois gols incluindo um golaço com assistência de Vinícius Jr</h6>
   </div>
@@ -41,7 +41,7 @@ include_once './includes/_header.php';
     <div class="carousel-item">
       <img class="d-block w-100 carousel-imgs" height="500px" src="./contents/japao-derrota-alemanha.jpg" alt="Third slide">
 <div class="carousel-caption d-none d-md-block">
-      <button type="button" class="btn btn-dark btn-outline-primary">2x1</button>
+      <button type="button" class="btn btn-dark btn-outline-primary btn-lg">2x1</button>
     <h5 class="shadow-text">Japão Vira da Alemanha </h5>
     <h6 class="shadow-text">Após um gol de pênalti da Alemanha, o Japão vira o jogo contra a Alemanha de forma parecida com a virada da Arábia Saudia sob a Argentina</h6>
 
@@ -66,7 +66,7 @@ include_once './includes/_header.php';
   <div class="card-body">
     <h3 class="card-title">Karim Benzema é o melhor do mundo  </h3>
     <p class="card-text">O atacante do Real Madrid ficou em primeiro na premiação de melhor do mundo da France Football</p>
-    <a href="./noticia-karim-benzema.php" class="btn btn-light">Leia mais</a>
+    <a href="./noticia-karim-benzema.php" class="btn btn-light btn-block">Leia mais</a>
   </div>
 </div>
 
@@ -77,7 +77,7 @@ include_once './includes/_header.php';
   <div class="card-body">
     <h4 class="card-title">Cristiano Ronaldo ou Messi</h4>
     <p class="card-text">Artigo de opinião de Rian Garcia Pereira</p>
-    <a href="./artigo-de-opiniao-cristiano-ou-messi.php" class="btn btn-light">Leia mais</a>
+    <a href="./artigo-de-opiniao-cristiano-ou-messi.php" class="btn btn-light btn-block">Leia mais</a>
   </div>
 </div>
 
@@ -90,7 +90,7 @@ include_once './includes/_header.php';
     <h1 class="card-title">Jogo do Grêmio</h1>
     <hr>
     <h5>Crônica de Rian Garcia Pereira</h5>
-    <a href="./cronica-jogo-do-gremio.php" class="btn btn-light">Leia mais</a>
+    <a href="./cronica-jogo-do-gremio.php" class="btn btn-light btn-block">Leia mais</a>
   </div>
 </div>
 
