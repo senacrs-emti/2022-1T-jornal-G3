@@ -85,6 +85,15 @@ include_once './includes/_header.php';
 </div>
 
 
+<div class="card bg-dark mt-5 text-white card-noticia col-12">
+  <img class="mt-3" src="./contents/LeoErig.png"  alt="...">
+  <div class="card-body">
+    <h4 class="card-title">Entrevista com Leonardo Erig Datix - Futebol</h4>
+    <p class="card-text">Entrevista com Leonardo Erig Datix jogador Sub-15 do Grêmio </p>
+    <a href="./entrevista-futebol-LeoErig.php" class="btn btn-light">Leia mais</a>
+  </div>
+</div>
+
 </main>
 <?php
 // include do aside
