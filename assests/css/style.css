@@ -9,7 +9,7 @@ main {
 }
 /* ASIDE */
 aside {
-    background-color: #14274E;
+    background-color: #14274E   ;
 }
 aside .card-body{
     width: 80%;
@@ -106,7 +106,7 @@ footer img {
     }
 
 .imagemeditoria {
-    width: 30%;
+    width: 50%;
     margin-left: 35%;
 }
 
