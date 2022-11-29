@@ -32,6 +32,14 @@ include_once './includes/_header.php';
     <a href="./artigo-de-opiniao-DOBRONX.php" class="btn btn-light">Leia mais</a>
   </div>
 </div>
+<div class="card bg-dark mt-5 text-white card-noticia col-12">
+  <img src="https://casajardimdecor.com/wp-content/uploads/2019/05/kimono-karate-gi-traditionnal-kwon.jpg"  alt="...">
+  <div class="card-body">
+    <h4 class="card-title">Entrevista com João Pedro Machado - Karatê</h4>
+    <p class="card-text">Entrevista com João Pedro Machado, que pratica karatê desde os 6 anos.</p>
+    <a href="./entrevista-karate-machado.php" class="btn btn-light">Leia mais</a>
+  </div>
+</div>
 </main>
 <?php
 // include do aside
