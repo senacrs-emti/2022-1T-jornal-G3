@@ -41,7 +41,7 @@ include_once './includes/_header.php';
 </div>
 
 <div class="card bg-dark mt-5 text-white card-noticia col-12">
-  <img class="mt-3" src="https://www.lance.com.br/files/article_main/uploads/2022/10/17/634d8550da4e0.jpeg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
+  <img class="mt-3" src="https://esporteamotor.com.br/wp-content/uploads/2022/10/Aposentadoria-ficando-um-pouco-mais-real-a-medida-que-o.jpg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
   <div class="card-body">
     <h5 class="card-title">Aposentadoria de Sebastian Vettel</h5>
     <p class="card-text">Noticia sobre a aposentadoria do famoso piloto Sebastian Vettel</p>
