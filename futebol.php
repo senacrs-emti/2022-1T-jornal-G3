@@ -33,7 +33,7 @@ include_once './includes/_header.php';
   <div class="carousel-item">
       <img class="d-block w-100 carousel-imgs" height="500px" src="./contents/richarlison.png" alt="Second slide">
 <div class="carousel-caption d-none d-md-block">
-      <button type="button" class="btn btn-warning">2x0</button>
+      <button type="button" class="btn btn-warning btn-outline-light">2x0</button>
     <h5 class="shadow-text">Brasil ganha da Sérvia</h5>
     <h6 class="shadow-text ml-5">Richarlison faz dois gols incluindo um golaço com assistência de Vinícius Jr</h6>
   </div>
@@ -41,7 +41,7 @@ include_once './includes/_header.php';
     <div class="carousel-item">
       <img class="d-block w-100 carousel-imgs" height="500px" src="./contents/japao-derrota-alemanha.jpg" alt="Third slide">
 <div class="carousel-caption d-none d-md-block">
-      <button type="button" class="btn btn-primary">2x1</button>
+      <button type="button" class="btn btn-dark btn-outline-primary">2x1</button>
     <h5 class="shadow-text">Japão Vira da Alemanha </h5>
     <h6 class="shadow-text">Após um gol de pênalti da Alemanha, o Japão vira o jogo contra a Alemanha de forma parecida com a virada da Arábia Saudia sob a Argentina</h6>
 
