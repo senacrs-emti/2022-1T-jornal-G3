@@ -27,23 +27,23 @@ include_once './includes/_header.php';
   <div class="carousel-caption d-none d-md-block">
   <button type="button" class="btn btn-info btn-outline-light btn-lg">2x0</button>
     <h3 class="shadow-text">Argentina ganha do México</h3>
-    <h6 class="shadow-text ml-5">Messi abre o placar e Argentina ganha após derrota contra Arábia Saudita</h6>
+    <h5 class="shadow-text ml-5">Messi abre o placar e Argentina ganha após derrota contra Arábia Saudita</h5>
   </div>
   </div>
   <div class="carousel-item">
       <img class="d-block w-100 carousel-imgs" height="500px" src="./contents/richarlison.png" alt="Second slide">
 <div class="carousel-caption d-none d-md-block">
       <button type="button" class="btn btn-warning btn-outline-light btn-lg">2x0</button>
-    <h5 class="shadow-text">Brasil ganha da Sérvia</h5>
-    <h6 class="shadow-text ml-5">Richarlison faz dois gols incluindo um golaço com assistência de Vinícius Jr</h6>
+    <h3 class="shadow-text">Brasil ganha da Sérvia</h3>
+    <h5 class="shadow-text ml-5">Richarlison faz dois gols incluindo um golaço com assistência de Vinícius Jr</h5>
   </div>
   </div>
     <div class="carousel-item">
       <img class="d-block w-100 carousel-imgs" height="500px" src="./contents/japao-derrota-alemanha.jpg" alt="Third slide">
 <div class="carousel-caption d-none d-md-block">
       <button type="button" class="btn btn-dark btn-outline-primary btn-lg">2x1</button>
-    <h5 class="shadow-text">Japão Vira da Alemanha </h5>
-    <h6 class="shadow-text">Após um gol de pênalti da Alemanha, o Japão vira o jogo contra a Alemanha de forma parecida com a virada da Arábia Saudia sob a Argentina</h6>
+    <h3 class="shadow-text">Japão Vira da Alemanha </h3>
+    <h5 class="shadow-text">Após um gol de pênalti da Alemanha, o Japão vira o jogo contra a Alemanha de forma parecida com a virada da Arábia Saudia sob a Argentina</h5>
 
   </div>
   </div>
@@ -95,7 +95,7 @@ include_once './includes/_header.php';
 </div>
 
 
-<div class="card bg-dark mt-5 mb-5 text-white card-noticia col-12">
+<div class="card bg-dark mt-5 mb-5   text-white card-noticia col-12">
   <img class="mt-3" src="./contents/LeoErig.png"  alt="...">
   <div class="card-body">
     <h4 class="card-title">Entrevista com Leonardo Erig Datix - Futebol</h4>
