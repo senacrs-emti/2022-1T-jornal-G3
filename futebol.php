@@ -3,13 +3,20 @@
 include_once './includes/_header.php';
 ?>
 <main class="col-lg-9 col-12">
-    <img class="imagemeditoria mt-3" src="https://cdn-icons-png.flaticon.com/512/53/53283.png" alt="">
-    <h1 class="text-editoria mt-3">FUTEBOL</h1>
-    <p>Não se sabe exatamente quando o futebol surgiu. Historiadores contamque começou com o ingleses com bolas de couro. A ação era realizada anualmente, mas, com o tempo, a prática passou a popularizar-se, e os jogos com a bola passaram a ser realizados com maior frequência.</p>
-    <p>Os jgoos não tinham regras, logo era permitido muitas agressões e porum tempo era visto como uma atividade violenta e não apropriada para jovens.</p>
-    <p>O crescimento dos desafios e torneios entre clubes foi impulsionador para a institucionalização do futebol, que ocorreu em 1863. A partir da fundação da Football Association (FA), instituição que formulou as primeiras regras para a prática do futebol, o esporte passou a ter mais visibilidade e a elaboração de campeonatos e partidas oficiais iniciou-se. A criação dos campeonatos foi importante para o surgimento de regras universais para o futebol, e, desde então, o esporte começou a expandir-se, universalmente.</p>
-    <p>óbviamente teve muitas mudanças desde a criação do futebol, regras e etc, mas hoje em dia é o esporte mais famoso de todos os tempos.</p>
-    <hr>
+<h1 class="text-editoria mt-3">FUTEBOL</h1>
+<div style=" position: relative; height: 300px; float: left; margin: 15px; display: inline-block" >  <img class="imagemeditoria mt-3" src="https://cdn-icons-png.flaticon.com/512/53/53283.png" alt="">
+  </div>
+
+  <div style=" height: 500px; margin: 15px; position: relative; display: block;" >
+
+  
+        <p style="word-wrap: break-word; ">Não se sabe exatamente quando o futebol surgiu. Historiadores contam que começou com o ingleses com bolas de couro. A ação era realizada anualmente, mas, com o tempo, a prática passou a popularizar-se, e os jogos com a bola passaram a ser realizados com maior frequência.</p>
+    <p style="word-wrap: break-word; ">Os jogos não tinham regras, logo era permitido muitas agressões e porum tempo era visto como uma atividade violenta e não apropriada para jovens.</p>
+    <p style="word-wrap: break-word; ">O crescimento dos desafios e torneios entre clubes foi impulsionador para a institucionalização do futebol, que ocorreu em 1863. A partir da fundação da Football Association (FA), instituição que formulou as primeiras regras para a prática do futebol, o esporte passou a ter mais visibilidade e a elaboração de campeonatos e partidas oficiais iniciou-se. A criação dos campeonatos foi importante para o surgimento de regras universais para o futebol, e, desde então, o esporte começou a expandir-se, universalmente.</p>
+    <p style="word-wrap: break-word; ">óbviamente teve muitas mudanças desde a criação do futebol, regras e etc, mas hoje em dia é o esporte mais famoso de todos os tempos.</p>
+  </div>  
+<hr>
+
 
 
     <div id="carouselExampleIndicators" class="carousel slide col-12" data-ride="carousel">
