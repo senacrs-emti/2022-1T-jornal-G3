@@ -10,7 +10,7 @@ include_once './includes/_header.php';
   <div style=" height: 500px; margin: 15px; position: relative; display: block;" >
 
   
-        <p style="word-wrap: break-word; ">Não se sabe exatamente quando o futebol surgiu. Historiadores contam que começou com o ingleses com bolas de couro. A ação era realizada anualmente, mas, com o tempo, a prática passou a popularizar-se, e os jogos com a bola passaram a ser realizados com maior frequência.</p>
+    <p style="word-wrap: break-word; ">Não se sabe exatamente quando o futebol surgiu. Historiadores contam que começou com o ingleses com bolas de couro. A ação era realizada anualmente, mas, com o tempo, a prática passou a popularizar-se, e os jogos com a bola passaram a ser realizados com maior frequência.</p>
     <p style="word-wrap: break-word; ">Os jogos não tinham regras, logo era permitido muitas agressões e porum tempo era visto como uma atividade violenta e não apropriada para jovens.</p>
     <p style="word-wrap: break-word; ">O crescimento dos desafios e torneios entre clubes foi impulsionador para a institucionalização do futebol, que ocorreu em 1863. A partir da fundação da Football Association (FA), instituição que formulou as primeiras regras para a prática do futebol, o esporte passou a ter mais visibilidade e a elaboração de campeonatos e partidas oficiais iniciou-se. A criação dos campeonatos foi importante para o surgimento de regras universais para o futebol, e, desde então, o esporte começou a expandir-se, universalmente.</p>
     <p style="word-wrap: break-word; ">óbviamente teve muitas mudanças desde a criação do futebol, regras e etc, mas hoje em dia é o esporte mais famoso de todos os tempos.</p>
@@ -24,23 +24,26 @@ include_once './includes/_header.php';
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100 carousel-imgs" height="500px" src="./contents/messi.png" alt="First slide">
-      <div class="carousel-caption d-none d-md-block">
-    <h5 class="shadow-text">2x0 Argentina ganha do México</h5>
-    <p class="shadow-text ml-5">Messi abre o placar e Argentina ganha após derrota contra Arábia Saudita</p>
+  <div class="carousel-caption d-none d-md-block">
+  <button type="button" class="btn btn-info">2x0</button>
+    <h3 class="shadow-text">Argentina ganha do México</h3>
+    <h6 class="shadow-text ml-5">Messi abre o placar e Argentina ganha após derrota contra Arábia Saudita</h6>
   </div>
   </div>
   <div class="carousel-item">
       <img class="d-block w-100 carousel-imgs" height="500px" src="./contents/richarlison.png" alt="Second slide">
-      <div class="carousel-caption d-none d-md-block">
-    <h5 class="shadow-text">2X0 Brasil ganha da Sérvia</h5>
-    <p class="shadow-text ml-5">Richarlison faz dois gols incluindo um golaço com assistência de Vinícius Jr</p>
+<div class="carousel-caption d-none d-md-block">
+      <button type="button" class="btn btn-warning">2x0</button>
+    <h5 class="shadow-text">Brasil ganha da Sérvia</h5>
+    <h6 class="shadow-text ml-5">Richarlison faz dois gols incluindo um golaço com assistência de Vinícius Jr</h6>
   </div>
   </div>
     <div class="carousel-item">
       <img class="d-block w-100 carousel-imgs" height="500px" src="./contents/japao-derrota-alemanha.jpg" alt="Third slide">
-      <div class="carousel-caption d-none d-md-block">
-    <h5 class="shadow-text">2x1 Japão Vira da Alemanha </h5>
-    <p class="shadow-text">Após um gol de pênalti da Alemanha, o Japão vira o jogo contra a Alemanha de forma parecida com a virada da Arábia Saudia sob a Argentina</p>
+<div class="carousel-caption d-none d-md-block">
+      <button type="button" class="btn btn-primary">2x1</button>
+    <h5 class="shadow-text">Japão Vira da Alemanha </h5>
+    <h6 class="shadow-text">Após um gol de pênalti da Alemanha, o Japão vira o jogo contra a Alemanha de forma parecida com a virada da Arábia Saudia sob a Argentina</h6>
 
   </div>
   </div>
