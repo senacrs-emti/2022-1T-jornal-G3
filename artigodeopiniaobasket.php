@@ -20,7 +20,7 @@ include_once './includes/_header.php';
 
     <p class="p-noticia">Além disso, Jordan é o maior artilheiro de todos os tempos da liga, com média de 30,12 pontos por jogo NA CARREIRA. Foram 10 títulos de basquete na temporada com 165 jogos com pelo menos 40 pontos, 32 jogos com 50 pontos e cinco jogos com 60 pontos.</p>
 
-    <p class="p-noticia">Mas Jordan não era bom só na parte ofensiva do jogo, ele também era um dos melhores Mas Jordan não era apenas bom no lado ofensivo do jogo, ele também era um dos melhores defensores da liga. Não surpreendentemente, ele foi selecionado defensivamente nove vezes (1988 a 1993 e 1996 a 1998), além de se tornar o Defensor do Ano em 1988 e o líder de roubo da NBA em três temporadas (1988, 1990 e 1993).</p>
+    <p class="p-noticia">Mas Jordan não era apenas bom no lado ofensivo do jogo, ele também era um dos melhores defensores da liga. Não surpreendentemente, ele foi selecionado defensivamente nove vezes (1988 a 1993 e 1996 a 1998), além de se tornar o Defensor do Ano em 1988 e o líder de roubo da NBA em três temporadas (1988, 1990 e 1993).</p>
 
     <p class="p-noticia">Jordan era o coração, o cérebro e os pulmões do histórico Chicago Bulls. A camisa número 23 foi um ícone de uma geração, criou milhares de fãs de basquete e mudou a forma como as pessoas percebiam o esporte.</p>
     
