@@ -99,7 +99,7 @@ include_once './includes/_header.php';
   <img class="mt-3" src="./contents/LeoErig.png"  alt="...">
   <div class="card-body">
     <h4 class="card-title">Entrevista com Leonardo Erig Datix - Futebol</h4>
-    <p class="card-text">Entrevista com Leonardo Erig Datix jogador Sub-15 do Grêmio </p>
+    <p class="card-text">Entrevista com Leonardo Erig Datix jogador Sub-15 do Grêmio</p>
     <a href="./entrevista-futebol-LeoErig.php" class="btn btn-light">Leia mais</a>
   </div>
 </div>
