@@ -63,7 +63,7 @@ include_once './includes/_header.php';
 
 
 <div class="card bg-dark mt-5 text-white card-noticia col-12">
-  <img src="./contents/cr7-e-messi.jpg"  alt="...">
+  <img class="mt-3" src="./contents/cr7-e-messi.jpg"  alt="...">
   <div class="card-body">
     <h4 class="card-title">Cristiano Ronaldo ou Messi</h4>
     <p class="card-text">Artigo de opinião de Rian Garcia Pereira</p>
@@ -73,7 +73,7 @@ include_once './includes/_header.php';
 
 
 
-<div class="card bg-dark mt-5 text-white card-noticia col-12">
+<div class="card bg-dark mt-5 mb-3 text-white card-noticia col-12">
     <h1 class="mt-1 ml-5">CRÔNICA</h1>
   <img src="./contents/olimpico-gremio.jpg" alt="...">
   <div class="card-body">
