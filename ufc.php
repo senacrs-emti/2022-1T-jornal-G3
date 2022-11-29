@@ -7,36 +7,31 @@ include_once './includes/_header.php';
     
     <h1 class="text-editoria">ARTES MARCIAIS MISTAS</h1>
 
-    <div class="card bg-dark m-5 text-white card-noticia col-10" style="width: 45rem;">
-  <img src="https://i2-prod.mirror.co.uk/incoming/article28297840.ece/ALTERNATES/s1200c/0_UFC-280-Ceremonial-Weigh-in.jpg" alt="...">
-    
+
+<div class="card bg-dark mt-5 text-white card-noticia col-12">
+  <img src="https://classic.exame.com/wp-content/uploads/2022/10/GettyImages-1435299459.jpg?quality=70&strip=info&w=1024"  alt="...">
   <div class="card-body">
-    <h5 class="card-title">Charles do Bronx perde por meio de finalização contra Islam Makhachev</h5>
+    <h4 class="card-title">Charles do Bronx perde por meio de finalização contra Islam Makhachev</h4>
     <p class="card-text">Charles Oliveira ‘do Bronx’ perde após 5 anos de invencibilidade e seu reinado no peso leve chega a um fim.</p>
-    <a href="./noticia-ufc.php" class="btn btn-primary">Leia mais</a>
+    <a href="./noticia-ufc.php" class="btn btn-light">Leia mais</a>
   </div>
 </div>
-<div class="card bg-dark m-5 text-white card-noticia col-10" style="width: 45rem;">
-  <img src="https://dmxg5wxfqgb4u.cloudfront.net/styles/background_image_sm/s3/2022-10/211022-hero-charles-oliveira-pesagem-GettyImages-1435209105.jpg?h=d1cb525d&itok=ur00FoKw" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
-    
+<div class="card bg-dark mt-5 text-white card-noticia col-12">
+  <img src="https://dmxg5wxfqgb4u.cloudfront.net/styles/background_image_sm/s3/2022-10/211022-hero-charles-oliveira-pesagem-GettyImages-1435209105.jpg?h=d1cb525d&itok=ur00FoKw"  alt="...">
   <div class="card-body">
-    <h5 class="card-title">CRÔNICA: UFC 280</h5>
+    <h4 class="card-title">CRÔNICA: UFC 280</h4>
     <p class="card-text">Crônica sobre o UFC 280, Charles do Bronx vs Islam Makhachev na disputa pelo cinturão peso-leve.</p>
-    <a href="./crônica-UFC280.php" class="btn btn-primary">Leia mais</a>
+    <a href="./crônica-UFC280.php" class="btn btn-light">Leia mais</a>
   </div>
 </div>
-<div class="card bg-dark m-5 text-white card-noticia col-10" style="width: 45rem;">
-  <img src="https://esportenewsmundo.com.br/wp-content/uploads/2022/05/charlesdobronxcinturao.jpeg" class="card-img-top col-11 ml-4 mr-4 mt-2 card-image" alt="...">
-    
+<div class="card bg-dark mt-5 text-white card-noticia col-12">
+  <img src="https://esportenewsmundo.com.br/wp-content/uploads/2022/05/charlesdobronxcinturao.jpeg"  alt="...">
   <div class="card-body">
-    <h5 class="card-title">Charles do Bronx</h5>
+    <h4 class="card-title">Charles do Bronx</h4>
     <p class="card-text">Artigo de opinião sobre Charles do Bronx.</p>
-    <a href="./artigo-de-opiniao-DOBRONX.php" class="btn btn-primary">Leia mais</a>
+    <a href="./artigo-de-opiniao-DOBRONX.php" class="btn btn-light">Leia mais</a>
   </div>
 </div>
-
-
-
 </main>
 <?php
 // include do aside
