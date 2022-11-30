@@ -3,7 +3,7 @@
 include_once './includes/_header.php';
 ?>
 <main class="col-lg-9 col-12">
-  <img src="https://i.pinimg.com/236x/84/c1/45/84c1459a45b413a49fd5fbe4869bf555.jpg" alt="">  
+  <img class="col-4 ml-5" src="./contents/braco-fisiculturismo.png" alt="">  
     <p class="text-editoria"></p>
     <h1 class="text-editoria">Fisiculturismo</h1>
 
