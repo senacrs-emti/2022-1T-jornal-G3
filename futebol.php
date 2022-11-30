@@ -25,7 +25,7 @@ include_once './includes/_header.php';
     <div class="carousel-item active">
       <img class="d-block w-100 carousel-imgs" height="500px" src="./contents/messi.png" alt="First slide">
   <div class="carousel-caption d-none d-md-block">
-  <button type="button" class="btn btn-info btn-outline-light btn-lg">2x0</button>
+  <a href="https://youtu.be/91Zfa8It_JA" target="_blank"><button type="button" class="btn btn-info btn-outline-light btn-lg">2x0</button></a>
     <h3 class="shadow-text">Argentina ganha do México</h3>
     <h5 class="shadow-text ml-5">Messi abre o placar e Argentina ganha após derrota contra Arábia Saudita</h5>
   </div>
@@ -33,15 +33,15 @@ include_once './includes/_header.php';
   <div class="carousel-item">
       <img class="d-block w-100 carousel-imgs" height="500px" src="./contents/richarlison.png" alt="Second slide">
 <div class="carousel-caption d-none d-md-block">
-      <button type="button" class="btn btn-warning btn-outline-light btn-lg">2x0</button>
-    <h3 class="shadow-text">Brasil ganha da Sérvia</h3>
+  <a href="https://youtu.be/_VCSlZ2n42o" target="_blank"><button type="button" class="btn btn-warning btn-outline-light btn-lg">2x0</button></a>         
+<h3 class="shadow-text">Brasil ganha da Sérvia</h3>
     <h5 class="shadow-text ml-5">Richarlison faz dois gols incluindo um golaço com assistência de Vinícius Jr</h5>
   </div>
   </div>
     <div class="carousel-item">
       <img class="d-block w-100 carousel-imgs" height="500px" src="./contents/japao-derrota-alemanha.jpg" alt="Third slide">
 <div class="carousel-caption d-none d-md-block">
-      <button type="button" class="btn btn-dark btn-outline-primary btn-lg">2x1</button>
+    <a href="https://youtu.be/sv055BqJK_I" target="_blank"> <button type="button" class="btn btn-dark btn-outline-primary btn-lg">2x1</button></a> 
     <h3 class="shadow-text">Japão Vira da Alemanha </h3>
     <h5 class="shadow-text">Após um gol de pênalti da Alemanha, o Japão vira o jogo contra a Alemanha de forma parecida com a virada da Arábia Saudia sob a Argentina</h5>
 
