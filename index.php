@@ -9,7 +9,7 @@ include_once './includes/_header.php';
   <div class="card-body">
     <h5 class="card-title">Karim Benzema é o melhor do mundo </h5>
     <p class="card-text">O atacante do Real Madrid ficou em primeiro na premiação de melhor do mundo da France Football</p>
-    <a href="./noticia-karim-benzema.php" class="btn btn-primary btn-block">Leia mais</a>
+    <a href="./noticia-karim-benzema.php" class="btn btn-light btn-block">Leia mais</a>
   </div>
 </div>
 
@@ -18,7 +18,7 @@ include_once './includes/_header.php';
   <div class="card-body">
     <h5 class="card-title">Amazon irá transmitir a NBA e usa Luva de Pedreiro como propaganda</h5>
     <p class="card-text">O release enviado pelo serviço de streaming afirma que a plataforma terá quatro jogos exclusivos por semana.</p>
-    <a href="./noticiabasket.php" class="btn btn-primary btn-block">Leia mais</a>
+    <a href="./noticiabasket.php" class="btn btn-light btn-block">Leia mais</a>
   </div>
 </div>
 
@@ -27,7 +27,7 @@ include_once './includes/_header.php';
   <div class="card-body">
     <h5 class="card-title">Charles do Bronx perde por meio de finalização contra Islam Makhachev</h5>
     <p class="card-text">Charles Oliveira ‘do Bronx’ perde após 5 anos de invencibilidade e seu reinado no peso leve chega a um fim</p>
-    <a href="./noticia-ufc.php" class="btn btn-primary btn-block">Leia mais</a>
+    <a href="./noticia-ufc.php" class="btn btn-light btn-block">Leia mais</a>
   </div>
 </div>
 
@@ -45,7 +45,7 @@ include_once './includes/_header.php';
   <div class="card-body">
     <h5 class="card-title">Aposentadoria de Sebastian Vettel</h5>
     <p class="card-text">Noticia sobre a aposentadoria do famoso piloto Sebastian Vettel</p>
-    <a href="./noticia-f1.php" class="btn btn-primary btn-block">Leia mais</a>
+    <a href="./noticia-f1.php" class="btn btn-light btn-block">Leia mais</a>
   </div>
 </div>
 
