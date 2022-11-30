@@ -40,7 +40,7 @@ include_once './includes/_header.php';
   </div>
 </div>
 
-<div class="card bg-dark mt-5 text-white card-noticia col-12">
+<div class="card bg-dark mt-5 mb-5 text-white card-noticia col-12">
   <img class="" src="https://mulheresacesta.com.br/wp-content/uploads/2020/11/basquete-nba-golden-state-warriors-la-clippers6cs.jpg" alt="...">
   <div class="card-body">
     <h3 class="card-title">Um grande jogador</h3>
