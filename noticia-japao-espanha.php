@@ -8,13 +8,13 @@ include_once './includes/_header.php';
     <h3 class="noticia-text mt-3 ml-2 mr-2">Depois de mais uma virada do Japão, eles conseguem o primeiro lugar na classificação para as oitavas de final da Copa do mundo.</h3>
     <h5 class="noticia-text mt-3 mb-3">Autor: Rian Garcia Pereira</h5>
 
-    <p class="p-noticia">Havia pouca expectativa em cima dos jogos de Espanha x Japão e Alemanha x Costa Rica, Porém a Costa Rica virou o jogo contra a Alemanha, mas logo depois a Alemanha se recupera e ganha. E o Japão vira o jogo contra a Espanha em um gol que gerou bastante discussão.</p>
+    <p class="p-noticia">Havia pouca expectativa em cima dos jogos de Espanha x Japão e Alemanha x Costa Rica, Porém a Costa Rica virou o jogo contra a Alemanha, mas logo depois a Alemanha se recuperou e ganhou. E o Japão vira o jogo contra a Espanha em um gol que gerou bastante discussão.</p>
 
     <img class="col-12 image-noticia" src="./contents/gol-japao.jpg" alt="">
 
-    <p class="p-noticia">A discussão era se a bola já havia saído ou não, mas o Juiz Marcou e o Japão Recuperou o jogo. Após esse gol, a Espanha foi pra cima e criou algumas chances, mas o Japão conseguiu se defender bem e o jogo terminou em 2X1</p>
+    <p class="p-noticia">A discussão era se a bola já havia saído ou não, mas o Juiz marcou e o Japão recuperou o jogo. Após esse gol, a Espanha foi pra cima e criou algumas chances, mas o Japão conseguiu se defender bem e o jogo terminou em 2X1</p>
 
-    <p class="p-noticia">Com a vitória do Japão em cima da Espanha, a Alemanha foi eliminada na fase de grupos da Copa do Mundo pela segunda vez consecutiva. Eles perderam na primeira rodada para o Japão com o mesmo placar do jogo da Espanha (2x1), e empataram com a Espanha, logo precisavam de uma vitória contra a Costa Rica, e conseguira, mas com a vitória do Japão em cima da Espanha, não foi possível a classificação da Alemanha.</p>
+    <p class="p-noticia">Com a vitória do Japão em cima da Espanha, a Alemanha foi eliminada na fase de grupos da Copa do Mundo pela segunda vez consecutiva. Eles perderam na primeira rodada para o Japão com o mesmo placar do jogo da Espanha (2x1), e empataram com a Espanha, logo precisavam de uma vitória contra a Costa Rica, e conseguiram, mas com a vitória do Japão em cima da Espanha, não foi possível a classificação da Alemanha.</p>
 
 
     <img class="col-12 image-noticia" src="./contents/meme-japao.jpg" alt="">

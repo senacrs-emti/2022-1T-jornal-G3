@@ -5,7 +5,7 @@ include_once './includes/_header.php';
 <main class="col-lg-9 col-12">
 
 
-<h3 class="bg-dark text-white mt-3" style="border-radius: 15px 15px; text-align:center;">Veja os grupos da Copa do Mundo já definidios:</h3>
+<h3 class="bg-dark text-white mt-3" style="border-radius: 15px 15px; text-align:center; border:30px;">Veja os grupos da Copa do Mundo já definidios:</h3>
 
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner  mt-3">
