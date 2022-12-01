@@ -26,7 +26,7 @@ include_once './includes/_header.php';
   <img class="d-block w-100 carousel-imgs" height="550px" src="./contents/japao-espanha.jpeg" alt="First slide">
   <div class="carousel-caption d-none d-md-block">
   <a href="" target="_blank"><button type="button" class="btn btn-light btn-outline-danger btn-lg">2x1</button></a>
-  <h3 class="shadow-text">Japão ganha da espanha<span class="badge badge-danger ml-2">News</span></h3>
+  <h3 class="shadow-text">Japão ganha da espanha<span class="badge badge-danger ml-2">New</span></h3>
   <h5 class="shadow-text ml-5">Em mais uma virada, Japão ganha da espanha e graças a isso Alemanha é eliminada pela segunda vez consecutiva na fase de grupos da copa do mundo</h5>
   </div>
   </div>
