@@ -21,17 +21,18 @@ include_once './includes/_header.php';
 
     <div id="carouselExampleIndicators" class="carousel slide col-12" data-ride="carousel">
 
-  <div class="carousel-inner">
+    <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100 carousel-imgs" height="500px" src="./contents/messi.png" alt="First slide">
+  <img class="d-block w-100 carousel-imgs" height="550px" src="./contents/japao-espanha.jpeg" alt="First slide">
   <div class="carousel-caption d-none d-md-block">
-  <a href="https://youtu.be/91Zfa8It_JA" target="_blank"><button type="button" class="btn btn-info btn-outline-light btn-lg">2x0</button></a>
-    <h3 class="shadow-text">Argentina ganha do México</h3>
-    <h5 class="shadow-text ml-5">Messi abre o placar e Argentina ganha após derrota contra Arábia Saudita</h5>
+  <a href="" target="_blank"><button type="button" class="btn btn-light btn-outline-danger btn-lg">2x1</button></a>
+  <h3 class="shadow-text">Japão ganha da espanha</h3>
+  <h5 class="shadow-text ml-5">Em mais uma virada, Japão ganha da espanha e graças a isso Alemanha é eliminada pela segunda vez consecutiva na fase de grupos da copa do mundo</h5>
   </div>
   </div>
+
   <div class="carousel-item">
-      <img class="d-block w-100 carousel-imgs" height="500px" src="./contents/richarlison.png" alt="Second slide">
+      <img class="d-block w-100 carousel-imgs" height="550px" src="./contents/richarlison.png" alt="Second slide">
 <div class="carousel-caption d-none d-md-block">
   <a href="https://youtu.be/_VCSlZ2n42o" target="_blank"><button type="button" class="btn btn-warning btn-outline-light btn-lg">2x0</button></a>         
 <h3 class="shadow-text">Brasil ganha da Sérvia</h3>
@@ -39,12 +40,11 @@ include_once './includes/_header.php';
   </div>
   </div>
     <div class="carousel-item">
-      <img class="d-block w-100 carousel-imgs" height="500px" src="./contents/japao-derrota-alemanha.jpg" alt="Third slide">
+      <img class="d-block w-100 carousel-imgs" height="550px" src="./contents/japao-derrota-alemanha.jpg" alt="Third slide">
 <div class="carousel-caption d-none d-md-block">
     <a href="https://youtu.be/sv055BqJK_I" target="_blank"> <button type="button" class="btn btn-dark btn-outline-primary btn-lg">2x1</button></a> 
     <h3 class="shadow-text">Japão Vira da Alemanha </h3>
     <h5 class="shadow-text">Após um gol de pênalti da Alemanha, o Japão vira o jogo contra a Alemanha de forma parecida com a virada da Arábia Saudia sob a Argentina</h5>
-
   </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
