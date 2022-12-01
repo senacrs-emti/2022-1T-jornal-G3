@@ -1,7 +1,21 @@
+
+body {
+    background-color: #9BA4B4;   
+}
+
 header {
     height: auto;
     background-color: #343a40;
 }
+
+.header-cor {
+    background-color:#14274E;
+}
+
+.cor-texto {
+    color: white;
+}
+
 
 main {
     height: auto;
@@ -9,7 +23,11 @@ main {
 }
 /* ASIDE */
 aside {
-    background-color: #14274E   ;
+    background-color:    #131518;
+    border-radius: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
 }
 aside .card-body{
     width: 80%;
@@ -45,7 +63,7 @@ footer {
     height: auto;
     background-color: #394867;
     
-}
+}   
 
 
 .logo-jornal {
@@ -146,4 +164,13 @@ p {
 
 .card-noticia {
     width: 100%;
+    background-color: black;
+}
+
+.card-index {
+    height: 600px;
+}
+
+.img-card-index {
+    height: 350px;
 }

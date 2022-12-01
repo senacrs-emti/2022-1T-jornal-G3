@@ -4,10 +4,10 @@ include_once './includes/_header.php';
 ?>
 <main class="col-lg-9 col-12">
 <h1 class="text-editoria mt-3">FUTEBOL</h1>
-<div style=" position: relative; height: 210px; float: left; margin: 10px; display: inline-block" >  <img class="imagemeditoria mt-3" src="https://cdn-icons-png.flaticon.com/512/53/53283.png" alt="">
+<div style=" position: relative; height: 220px; float: left; margin: 10px; display: inline-block" >  <img class="imagemeditoria mt-3" src="https://cdn-icons-png.flaticon.com/512/53/53283.png" alt="">
   </div>
 
-  <div style=" height: 450px; margin: 15px; position: relative; display: block;" >
+  <div style=" height: 340px; margin: 15px; position: relative; display: block;" >
 
   
     <p style="word-wrap: break-word; ">Não se sabe exatamente quando o futebol surgiu. Historiadores contam que começou com o ingleses com bolas de couro. A ação era realizada anualmente, mas, com o tempo, a prática passou a popularizar-se, e os jogos com a bola passaram a ser realizados com maior frequência.</p>
