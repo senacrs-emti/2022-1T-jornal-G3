@@ -27,7 +27,7 @@ include_once './includes/_header.php';
   <div class="card-body">
     <h3 class="card-title">Amazon irá transmitir a NBA e usa Luva de Pedreiro como propaganda</h3>
     <p class="card-text">O release enviado pelo serviço de streaming afirma que a plataforma terá quatro jogos exclusivos por semana.</p>
-    <a href="./noticiabasket.php" class="btn btn-light">Leia mais</a>
+    <a href="./noticiabasket.php" class="btn btn-light btn-block">Leia mais</a>
   </div>
 </div>
 
@@ -36,7 +36,7 @@ include_once './includes/_header.php';
   <div class="card-body">
     <h3 class="card-title">ARTIGO DE OPINIÃO: MICHAEL JORDAN MELHOR JOGADOR DA HISTÓRIA</h3>
     <p class="card-text">Artigo de opinião sobre a carreira de Michael Jordan</p>
-    <a href="./artigodeopiniaobasket.php" class="btn btn-light">Leia mais</a>
+    <a href="./artigodeopiniaobasket.php" class="btn btn-light btn-block">Leia mais</a>
   </div>
 </div>
 
@@ -45,7 +45,7 @@ include_once './includes/_header.php';
   <div class="card-body">
     <h3 class="card-title">Um grande jogador</h3>
     <p class="card-text">Crônica sobre um jogador de basket</p>
-    <a href="./cronicabasket.php" class="btn btn-light">Leia mais</a>
+    <a href="./cronicabasket.php" class="btn btn-light btn-block">Leia mais</a>
   </div>
 </div>
 

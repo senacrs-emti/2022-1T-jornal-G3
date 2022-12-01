@@ -19,18 +19,14 @@ include_once './includes/_header.php';
   </div>
 </div>
 
-
-
-
-    <div class="card bg-dark m-5 text-white card-noticia col-12" style="width: 45rem;">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_t6v8mRV3NTDU7Dmk4FKxl_lGJVbol--LbA&usqp=CAU" alt="...">
+<div class="card bg-dark mt-5 mb-5 text-white card-noticia col-12">
+  <img class="mt-3" src="./contents/ramon-e-bebe.jpg" alt="...">
   <div class="card-body">
-    <h5 class="card-title"> Como é a vida de um fisiculturismo </h5>
+    <h3 class="card-title">Como é a vida de um fisiculturismo </h3>
     <p class="card-text">Mais do que um esporte, o fisiculturismo é um estilo de vida. Embora sejam músculos para todos os lados, o fisiculturista possui uma grande força mental. Para ficar com aquele corpo com o mínimo de gordura possível são anos de treino e dedicação.</p>
-    <a href="./fisiculturista1.php" class="btn btn-primary">Leia mais</a>
+    <a href="./fisiculturista1.php" class="btn btn-light btn-block">Leia mais</a>
   </div>
 </div>
-
 
 
 </main>

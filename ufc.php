@@ -13,7 +13,7 @@ include_once './includes/_header.php';
   <div class="card-body">
     <h4 class="card-title">Charles do Bronx perde por meio de finalização contra Islam Makhachev</h4>
     <p class="card-text">Charles Oliveira ‘do Bronx’ perde após 5 anos de invencibilidade e seu reinado no peso leve chega a um fim.</p>
-    <a href="./noticia-ufc.php" class="btn btn-light">Leia mais</a>
+    <a href="./noticia-ufc.php" class="btn btn-light btn-block">Leia mais</a>
   </div>
 </div>
 <div class="card bg-dark mt-5 text-white card-noticia col-12">
@@ -21,7 +21,7 @@ include_once './includes/_header.php';
   <div class="card-body">
     <h4 class="card-title">CRÔNICA: UFC 280</h4>
     <p class="card-text">Crônica sobre o UFC 280, Charles do Bronx vs Islam Makhachev na disputa pelo cinturão peso-leve.</p>
-    <a href="./crônica-UFC280.php" class="btn btn-light">Leia mais</a>
+    <a href="./crônica-UFC280.php" class="btn btn-light btn-block">Leia mais</a>
   </div>
 </div>
 <div class="card bg-dark mt-5 text-white card-noticia col-12">
@@ -29,7 +29,7 @@ include_once './includes/_header.php';
   <div class="card-body">
     <h4 class="card-title">Charles do Bronx</h4>
     <p class="card-text">Artigo de opinião sobre Charles do Bronx.</p>
-    <a href="./artigo-de-opiniao-DOBRONX.php" class="btn btn-light">Leia mais</a>
+    <a href="./artigo-de-opiniao-DOBRONX.php" class="btn btn-light btn-block">Leia mais</a>
   </div>
 </div>
 <div class="card bg-dark mt-5 mb-5 text-white card-noticia col-12">
