@@ -1,6 +1,6 @@
-<aside class="col-lg-3 col-12">
+<aside class="col-lg-3 col-12 bg-dark">
   <h3 class="text-light" style="margin-left: 80px; margin-top: 20px;"> Mais lidos </h3>
-<div class="card ml-5" style="width: 15rem;">
+<div class="card ml-5 bg-dark text-white" style="width: 17rem;">
   <img src="./contents/karim-benzema-bola-de-ouro.jpg" alt="...">
   <div class="card-body">
     <h5 class="card-text">Karim Benzema é o melhor do mundo</h5>
@@ -8,7 +8,7 @@
   </div>
 </div>
 
-<div class="card ml-5" style="width: 15rem;">
+<div class="card ml-5 bg-dark text-white" style="width: 17rem;">
   <img src="https://classic.exame.com/wp-content/uploads/2022/10/GettyImages-1435299459.jpg?quality=70&strip=info&w=1024" alt="...">
   <div class="card-body">
     <h5 class="card-text">CHARLES DO BRONX PERDE POR MEIO DE FINALIZAÇÃO CONTRA ISLAM MAKHACHEV.</h5>
@@ -16,7 +16,7 @@
   </div>
 </div>
 
-<div class="card ml-5" style="width: 15rem;">
+<div class="card ml-5 bg-dark text-white" style="width: 17rem;">
   <img src="https://esporteamotor.com.br/wp-content/uploads/2022/10/Aposentadoria-ficando-um-pouco-mais-real-a-medida-que-o.jpg" class="card-img-top card-image" alt="...">
   <div class="card-body">
     <h5 class="card-text">Aposentadoria de Sebastian Vettel</h5>
