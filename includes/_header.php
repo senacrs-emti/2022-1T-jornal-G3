@@ -15,7 +15,7 @@
     <header class="row">
       <nav class="navbar col-12 navbar-expand-lg header-cor">
         <a href="./index.php"><img class="logo-jornal" src="./assests/img/logo-jornal.png" alt=""></a>
-        <a class="navbar-brand mt-5 cor-texto" href="#">Sport Hub News</a>
+        <a class="navbar-brand mt-5 cor-texto" href="./index.php">Sport Hub News</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>

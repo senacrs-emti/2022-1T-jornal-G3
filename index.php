@@ -4,6 +4,43 @@ include_once './includes/_header.php';
 ?>
 <main class="col-lg-9 col-12">
 
+
+<h3 class="bg-dark text-white mt-3" style="border-radius: 15px 15px; text-align:center;">Veja os grupos da Copa do Mundo já definidios:</h3>
+
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner  mt-3">
+    <div class="carousel-item active">
+      <img class="d-block w-100 carousel-imgs" height="300px" src="./contents/grupo-a.png" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100 carousel-imgs" height="300px" src="./contents/grupo-b.png" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100 carousel-imgs" height="300px" src="./contents/grupo-c.png" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100 carousel-imgs" height="300px" src="./contents/grupo-d.png" alt="Fourth slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100 carousel-imgs" height="300px" src="./contents/grupo-e.png" alt="Fifth slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100 carousel-imgs" height="300px" src="./contents/grupo-f.png" alt="Sixth slide">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+
+
+
 <hr>
 <h1 class="bg-dark text-white" style="border-radius: 15px 50px 15px; text-align:center;">NOTÍCIAS</h1>
 
