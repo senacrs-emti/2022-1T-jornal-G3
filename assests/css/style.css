@@ -12,6 +12,15 @@ header {
     background-color:#14274E;
 }
 
+
+.noticias-home {
+    background-color: #343a40;
+    text-align: center;
+    color: white;
+    border-radius: 15px;
+}
+
+
 .cor-texto {
     color: white;
 }

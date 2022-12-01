@@ -4,6 +4,9 @@ include_once './includes/_header.php';
 ?>
 <main class="col-lg-9 col-12">
 
+<hr>
+<h1 class="bg-dark text-white" style="border-radius: 15px 50px 15px; text-align:center;">NOTÍCIAS</h1>
+
 <div class="row row-cols-1 row-cols-md-2">
   <div class="col mb-4 mt-3">
     <div class="card bg-dark text-white card-index">
