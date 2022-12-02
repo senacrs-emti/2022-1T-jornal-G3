@@ -3,6 +3,9 @@
 include_once './includes/_header.php';
 ?>
 <main class="col-lg-9 col-12">
+
+        <img class="placar-jp-esp mt-3" style="border-radius: 15px 15px;" src="./contents/japao-espanha-placar.png" alt="">
+
     <h1 class="noticia-text mt-4 ml-4 mr-4">Japão ganha da Espanha e passa em primeiro lugar no grupo E</h1>
     <hr>
     <h3 class="noticia-text mt-3 ml-2 mr-2">Depois de mais uma virada do Japão, eles conseguem o primeiro lugar na classificação para as oitavas de final da Copa do mundo.</h3>
