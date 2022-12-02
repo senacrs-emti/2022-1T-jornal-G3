@@ -53,12 +53,7 @@ main {
     margin-bottom: 10%;
     border-radius: 3%;
 }
-    aside .btn{
-    width: 60%;
-    float: left;
-    margin-left: 60%;
-    margin-right: 10%;
-}
+
 
 .card-image {
     border-radius: 3%;
@@ -183,4 +178,12 @@ p {
 
 .img-card-index {
     height: 350px;
+}
+
+.img-aside {
+width: 98%;
+margin-left: 1%;
+margin-right: 1%;
+margin-top: 2%;
+border-radius: 25px;
 }

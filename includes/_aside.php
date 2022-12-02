@@ -1,28 +1,36 @@
 <aside class="col-lg-3 col-12 bg-dark">
-<h3 class="bg-light text-dark mt-3" style="border-radius: 15px 15px; text-align:center;">Mais lidos</h3>
-<div class="card ml-5 bg-dark text-white" style="width: 17rem;">
-  <img src="./contents/karim-benzema-bola-de-ouro.jpg" alt="...">
-  <div class="card-body">
-    <h5 class="card-text">Karim Benzema é o melhor do mundo</h5>
-    <a href="./noticia-karim-benzema.php" class="btn btn-primary btn-success">Leia</a>
-  </div>
+<h3 class="bg-light text-dark mt-3" style="border-radius: 15px 15px; text-align:center;">Principais Destaques</h3>
+
+<div class="row mt-4" style="Display:flex; Justify-content:center;"><img class="img-aside" src="./contents/cr7-e-messi.jpg" alt="">
+<h5 class="text-white">Cristiano Ronaldo ou Messi</h5>
+<a href="./artigo-de-opiniao-cristiano-ou-messi.php" class="btn btn-light btn-block ml-2 mr-2">Leia mais</a>
 </div>
 
-<div class="card ml-5 bg-dark text-white" style="width: 17rem;">
-  <img src="https://classic.exame.com/wp-content/uploads/2022/10/GettyImages-1435299459.jpg?quality=70&strip=info&w=1024" alt="...">
-  <div class="card-body">
-    <h5 class="card-text">CHARLES DO BRONX PERDE POR MEIO DE FINALIZAÇÃO CONTRA ISLAM MAKHACHEV.</h5>
-    <a href="./noticia-ufc.php" class="btn btn-primary btn-success">Leia</a>
-  </div>
+<div class="row mt-4" style="Display:flex; Justify-content:center;"><img class="img-aside" src="./contents/LeoErig.png" alt="">
+<h5 class="text-white">Entrevista com Leonardo Erig Datix</h5>
+<a href="./entrevista-futebol-LeoErig.php" class="btn btn-light btn-block ml-2 mr-2">Leia mais</a>
 </div>
 
-<div class="card ml-5 bg-dark text-white" style="width: 17rem;">
-  <img src="https://esporteamotor.com.br/wp-content/uploads/2022/10/Aposentadoria-ficando-um-pouco-mais-real-a-medida-que-o.jpg" class="card-img-top card-image" alt="...">
-  <div class="card-body">
-    <h5 class="card-text">Aposentadoria de Sebastian Vettel</h5>
-    <a href="./noticia-f1.php" class="btn btn-primary btn-success">Leia</a>
-  </div>
+<div class="row mt-4 mb-4" style="Display:flex; Justify-content:center;"><img class="img-aside" src="https://cdn-1.motorsport.com/images/amp/0mNdrpA2/s6/f1-european-gp-1993-ayrton-sen.jpg" alt="">
+<h5 class="text-white">Crônica de Senna</h5>
+<a href="./cronica-de-senna.php" class="btn btn-light btn-block ml-2 mr-2">Leia mais</a>
 </div>
+
+<div class="row mt-4" style="Display:flex; Justify-content:center;"><img class="img-aside" src="./contents/japao-espanha-aside.jpg" alt="">
+<h5 class="card-title text-white ml-3 mr-3"> <span class="badge badge-danger mr-2">New</span>Japão ganha da Espanha e passa em primeiro lugar no grupo E </h5>
+<a href="./noticia-japao-espanha.php" class="btn btn-light btn-block ml-2 mr-2">Leia mais</a>
+</div>
+
+<div class="row mt-4" style="Display:flex; Justify-content:center;"><img class="img-aside" src="./contents/ramon-e-bebe.jpg" alt="">
+<h5 class="text-white">Como é a vida de um fisiculturismo</h5>
+<a href="./fisiculturista1.php" class="btn btn-light btn-block ml-2 mr-2">Leia mais</a>
+</div>
+
+<div class="row mt-4 mb-4" style="Display:flex; Justify-content:center;"><img class="img-aside" src="https://cdn.nba.com/headshots/nba/latest/1040x760/893.png" alt="">
+<h5 class="text-white ml-5 mr-3">Michael Jorndan Melhor jogador da história</h5>
+<a href="./artigodeopiniaobasket.php" class="btn btn-light btn-block ml-2 mr-2">Leia mais</a>
+</div>
+
 </aside>
 
 </div>
