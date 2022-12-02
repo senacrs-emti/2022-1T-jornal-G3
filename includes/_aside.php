@@ -1,5 +1,5 @@
 <aside class="col-lg-3 col-12 bg-dark">
-  <h3 class="text-light" style="margin-left: 80px; margin-top: 20px;"> Mais lidos </h3>
+<h3 class="bg-light text-dark mt-3" style="border-radius: 15px 15px; text-align:center;">Mais lidos</h3>
 <div class="card ml-5 bg-dark text-white" style="width: 17rem;">
   <img src="./contents/karim-benzema-bola-de-ouro.jpg" alt="...">
   <div class="card-body">
